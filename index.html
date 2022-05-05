@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.3"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>University of Idaho ADCS: Main Page</title>
+<title>University of Idaho ADCS: Single Axis Attitude Determination and Control System v1.0</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -84,10 +84,53 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 </iframe>
 </div>
 
-<div class="header">
-  <div class="headertitle"><div class="title">University of Idaho ADCS Documentation</div></div>
+<div><div class="header">
+  <div class="headertitle"><div class="title">Single Axis Attitude Determination and Control System v1.0 </div></div>
 </div><!--header-->
 <div class="contents">
+<div class="textblock"><p ><a class="anchor" id="md_README"></a></p>
+<h2><a class="anchor" id="autotoc_md10"></a>
+CS Team Members</h2>
+<ul>
+<li>Garrett Wells</li>
+<li>Kristie Olds</li>
+<li>Parker Piedmont</li>
+</ul>
+<h1><a class="anchor" id="autotoc_md11"></a>
+Contents</h1>
+<p >This is the documentation of libraries and source code written for validating system design. It is not complete, as much of the code here represents code used to validate sensor and component function, actuator design, and dynamics of the system. More simply, this code proves our design works.</p>
+<p >It implements enough functionality for the system to fly safely in space and allow the mother satellite to:</p><ol type="1">
+<li>Collect data and monitor system function including:<ul>
+<li>power consumption and system voltage</li>
+<li>data collected by the sensors (Gyro, Magnetometer, Photodiodes)</li>
+</ul>
+</li>
+<li>Test actuator function<ul>
+<li>drive the flywheel</li>
+<li>drive magnetorquers</li>
+</ul>
+</li>
+<li>Receive UART commands from satellite<ul>
+<li>move from STANDBY mode (default) to HEARTBEAT (periodic data collection) to actuator testing</li>
+</ul>
+</li>
+</ol>
+<h1><a class="anchor" id="autotoc_md12"></a>
+Source Code Links</h1>
+<h2><a class="anchor" id="autotoc_md13"></a>
+Production Code</h2>
+<p >Production code can be found on <a href="https://github.com/pjpiedmont/ADCS">github</a>. This is the code that is documented here and is the most completely tested.</p>
+<h2><a class="anchor" id="autotoc_md14"></a>
+Test Code</h2>
+<p >Code used for bleeding edge development of architecture and library development can be found <a href="https://github.com/countryBumpkin/ADCS">here</a>. Expect communication bugs and architecture problems, but may contain more recent library code for components that has been tested on project hardware.</p>
+<h2><a class="anchor" id="autotoc_md15"></a>
+Satellite Simulator</h2>
+<p >Hardware testing and validation requires a microgravity simulation where friction on the satellite is minimal so that its reaction to PID and other control systems can be carefully observed and documented. To facilitate this we developed a wireless test rig or "hanging by a thread" test. We used an ESP32 microcontroller to pose as the satellite and support the UART communication link with the ADCS system. It provided the enable signal, UART connection, and hosted a webserver which we used to tell the ESP32 when and what commands to send the ADCS as well as collect data from the ADCS over UART.</p>
+<p ><a href="https://github.com/countryBumpkin/tes-simulator">CODE</a></p>
+<h1><a class="anchor" id="autotoc_md16"></a>
+RTOS</h1>
+<p >We used a real-time operating system based on <a href="https://freertos.org/">FreeRTOS</a> for this project. If you don't know what that is... <a href="https://en.wikipedia.org/wiki/Real-time_operating_system">check this out</a> and ask for help. Contact any of the previous team members, potentially through github, if you have questions. </p>
+</div></div><!-- PageDoc -->
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
