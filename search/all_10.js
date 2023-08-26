@@ -1,21 +1,13 @@
 var searchData=
 [
-  ['vcoroutineschedule_0',['vCoRoutineSchedule',['../group__v_co_routine_schedule.html',1,'']]],
-  ['vqueuedelete_1',['vQueueDelete',['../group__v_queue_delete.html',1,'']]],
-  ['vsemaphorecreatebinary_2',['vSemaphoreCreateBinary',['../group__v_semaphore_create_binary.html',1,'']]],
-  ['vsemaphoredelete_3',['vSemaphoreDelete',['../group__v_semaphore_delete.html',1,'']]],
-  ['vstreambufferdelete_4',['vStreamBufferDelete',['../group__v_stream_buffer_delete.html',1,'']]],
-  ['vtaskdelay_5',['vTaskDelay',['../group__v_task_delay.html',1,'']]],
-  ['vtaskdelayuntil_6',['vTaskDelayUntil',['../group__v_task_delay_until.html',1,'']]],
-  ['vtaskdelete_7',['vTaskDelete',['../group__v_task_delete.html',1,'']]],
-  ['vtaskendscheduler_8',['vTaskEndScheduler',['../group__v_task_end_scheduler.html',1,'']]],
-  ['vtaskgetinfo_9',['vTaskGetInfo',['../group__v_task_get_info.html',1,'']]],
-  ['vtaskgetruntimestats_10',['vTaskGetRunTimeStats',['../group__v_task_get_run_time_stats.html',1,'']]],
-  ['vtasklist_11',['vTaskList',['../group__v_task_list.html',1,'']]],
-  ['vtaskpriorityset_12',['vTaskPrioritySet',['../group__v_task_priority_set.html',1,'']]],
-  ['vtaskresume_13',['vTaskResume',['../group__v_task_resume.html',1,'']]],
-  ['vtaskresumefromisr_14',['vTaskResumeFromISR',['../group__v_task_resume_from_i_s_r.html',1,'']]],
-  ['vtaskstartscheduler_15',['vTaskStartScheduler',['../group__v_task_start_scheduler.html',1,'']]],
-  ['vtasksuspend_16',['vTaskSuspend',['../group__v_task_suspend.html',1,'']]],
-  ['vtasksuspendall_17',['vTaskSuspendAll',['../group__v_task_suspend_all.html',1,'']]]
+  ['magic_20defines_20for_20common_20polynomes_20verify_0',['Magic #defines for &quot;common&quot; polynomes? verify ?',['../md_lib_2CRC_2README.html#autotoc_md11',1,'']]],
+  ['magnetorquer_20driver_1',['ZXMB5210 Magnetorquer Driver',['../md_lib_2ZXMB5210_2README.html',1,'']]],
+  ['main_20cpp_2',['main.cpp',['../group__MAIN.html',1,'']]],
+  ['main_2ecpp_3',['main.cpp',['../main_8cpp.html',1,'']]],
+  ['make_20in_20v1_202_205_4',['What changes did you make in v1.2.5?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md28',1,'']]],
+  ['make_20in_20v1_202_206_5',['What changes did you make in v1.2.6?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md29',1,'']]],
+  ['memmory_20functions_6',['Optional Feature: Wrapped Memmory Functions.',['../md_lib_2FreeRTOS-SAMD51_2README.html#autotoc_md21',1,'']]],
+  ['modeq_7',['modeq',['../rtos__tasks_8h.html#a9b4c7270f4bd73c899bf38b9471ca51c',1,'modeQ:&#160;main.cpp'],['../main_8cpp.html#a9b4c7270f4bd73c899bf38b9471ca51c',1,'modeQ:&#160;main.cpp'],['../rtos__tasks_8cpp.html#a9b4c7270f4bd73c899bf38b9471ca51c',1,'modeQ:&#160;main.cpp']]],
+  ['motion_20processor_20dmp™_8',['motion processor dmp™',['../md_lib_2ICM-20948_2DMP.html',1,'InvenSense Digital Motion Processor (DMP™)'],['../md_lib_2ICM-20948_2DMP.html#autotoc_md23',1,'What is the Digital Motion Processor (DMP™)?']]],
+  ['motor_20driver_9',['DRV10970 Motor Driver',['../md_lib_2DRV10970_2README.html',1,'']]]
 ];

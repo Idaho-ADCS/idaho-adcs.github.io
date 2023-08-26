@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['getbytes_0',['getBytes',['../class_a_d_c_sdata.html#abf416575e295b7eb93308155e9354b17',1,'ADCSdata']]],
-  ['getcommand_1',['getCommand',['../class_t_e_scommand.html#ada57cdefcec43b63616458bd66d615c0',1,'TEScommand']]]
+  ['drv10970_0',['drv10970',['../classDRV10970.html#a09f8ad75c9291772873c25f250789eb6',1,'DRV10970::DRV10970(void)'],['../classDRV10970.html#a17700b51ed2f1b69277142688f36fd9a',1,'DRV10970::DRV10970(int men, int fg, int fr, int brkmod, int pwm, int rd)']]]
 ];

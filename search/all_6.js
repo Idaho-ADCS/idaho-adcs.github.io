@@ -1,4 +1,26 @@
 var searchData=
 [
-  ['loadbytes_0',['loadBytes',['../class_t_e_scommand.html#a7b6732f3dff1e41c646b757043d79764',1,'TEScommand']]]
+  ['a_5fblock_5flink_0',['A_BLOCK_LINK',['../structA__BLOCK__LINK.html',1,'']]],
+  ['access_20the_20dmp_20data_1',['How do I access the DMP data?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md26',1,'']]],
+  ['actuators_20cpp_2',['actuators.cpp',['../group__ACTUATORS.html',1,'']]],
+  ['actuators_2ecpp_3',['actuators.cpp',['../actuators_8cpp.html',1,'']]],
+  ['actuators_2eh_4',['actuators.h',['../actuators_8h.html',1,'']]],
+  ['adcs_5',['ADCS',['../index.html',1,'']]],
+  ['adcsdata_6',['adcsdata',['../classADCSdata.html',1,'ADCSdata'],['../classADCSdata.html#a3d31df79bbb98d4ba08221c9036173c3',1,'ADCSdata::ADCSdata()']]],
+  ['adcsphotodiodearray_7',['ADCSPhotodiodeArray',['../classADCSPhotodiodeArray.html',1,'']]],
+  ['addbyte_8',['addByte',['../classTEScommand.html#a0297363abd11748c48085dffc4caf64b',1,'TEScommand']]],
+  ['ak09916_5fcntl2_5freg_5ft_9',['AK09916_CNTL2_Reg_t',['../structAK09916__CNTL2__Reg__t.html',1,'']]],
+  ['ak09916_5fcntl3_5freg_5ft_10',['AK09916_CNTL3_Reg_t',['../structAK09916__CNTL3__Reg__t.html',1,'']]],
+  ['ak09916_5fst1_5freg_5ft_11',['AK09916_ST1_Reg_t',['../structAK09916__ST1__Reg__t.html',1,'']]],
+  ['ak09916_5fst2_5freg_5ft_12',['AK09916_ST2_Reg_t',['../structAK09916__ST2__Reg__t.html',1,'']]],
+  ['ak09916_5fwia1_5freg_5ft_13',['AK09916_WIA1_Reg_t',['../structAK09916__WIA1__Reg__t.html',1,'']]],
+  ['ak09916_5fwia2_5freg_5ft_14',['AK09916_WIA2_Reg_t',['../structAK09916__WIA2__Reg__t.html',1,'']]],
+  ['allow_20you_20to_20create_20freertos_20projects_20in_20the_20arduino_20ide_20and_20run_20them_20on_20your_20samd51_20boards_15',['This library will allow you to create FreeRtos Projects in the arduino IDE and run them on your Samd51 boards.',['../md_lib_2FreeRTOS-SAMD51_2README.html#autotoc_md18',1,'']]],
+  ['and_20run_20them_20on_20your_20samd51_20boards_16',['This library will allow you to create FreeRtos Projects in the arduino IDE and run them on your Samd51 boards.',['../md_lib_2FreeRTOS-SAMD51_2README.html#autotoc_md18',1,'']]],
+  ['and_20started_17',['How is the DMP loaded and started?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md25',1,'']]],
+  ['arduino_20ide_20and_20run_20them_20on_20your_20samd51_20boards_18',['This library will allow you to create FreeRtos Projects in the arduino IDE and run them on your Samd51 boards.',['../md_lib_2FreeRTOS-SAMD51_2README.html#autotoc_md18',1,'']]],
+  ['arduino_20library_19',['SparkFun ICM-20948 Arduino Library',['../md_lib_2ICM-20948_2README.html',1,'']]],
+  ['arduino_20samd51_20boards_20',['FreeRTOS V10.2.1 for Arduino Samd51 Boards',['../md_lib_2FreeRTOS-SAMD51_2README.html',1,'']]],
+  ['are_20currently_20supported_21',['Which DMP features are currently supported?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md27',1,'']]],
+  ['are_20the_20dmp_20registers_20defined_22',['Where are the DMP registers defined?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md30',1,'']]]
 ];

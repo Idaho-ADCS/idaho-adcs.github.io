@@ -1,8 +1,28 @@
 var searchData=
 [
-  ['read_0',['read',['../class_a_d_c_s_photodiode_array.html#aae14233b11ab2ac03c251bf6482c3259',1,'ADCSPhotodiodeArray']]],
-  ['readrpm_1',['readRPM',['../class_d_r_v10970.html#a2961358c65dde531f0391ef08ba0b0bc',1,'DRV10970']]],
-  ['rev_2',['rev',['../class_z_x_m_b5210.html#a86ffcf120d8688eeba56d0f1f7e55592',1,'ZXMB5210']]],
-  ['rtos_5ftasks_2ecpp_3',['rtos_tasks.cpp',['../group___r_t_o_s___t_a_s_k_s.html',1,'']]],
-  ['run_4',['run',['../class_d_r_v10970.html#a0745bd2031275e70465e2590689ef68d',1,'DRV10970']]]
+  ['data_0',['How do I access the DMP data?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md26',1,'']]],
+  ['data_20rate_20set_1',['How is the DMP data rate set?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md32',1,'']]],
+  ['default_2',['Is DMP support enabled by default?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md24',1,'']]],
+  ['defined_3',['Where are the DMP registers defined?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md30',1,'']]],
+  ['defines_20for_20common_20polynomes_20verify_4',['Magic #defines for &quot;common&quot; polynomes? verify ?',['../md_lib_2CRC_2README.html#autotoc_md11',1,'']]],
+  ['description_5',['Description',['../md_lib_2CRC_2README.html#autotoc_md1',1,'']]],
+  ['did_20you_20make_20in_20v1_202_205_6',['What changes did you make in v1.2.5?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md28',1,'']]],
+  ['did_20you_20make_20in_20v1_202_206_7',['What changes did you make in v1.2.6?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md29',1,'']]],
+  ['digital_20motion_20processor_20dmp™_8',['digital motion processor dmp™',['../md_lib_2ICM-20948_2DMP.html',1,'InvenSense Digital Motion Processor (DMP™)'],['../md_lib_2ICM-20948_2DMP.html#autotoc_md23',1,'What is the Digital Motion Processor (DMP™)?']]],
+  ['dmp™_9',['dmp™',['../md_lib_2ICM-20948_2DMP.html',1,'InvenSense Digital Motion Processor (DMP™)'],['../md_lib_2ICM-20948_2DMP.html#autotoc_md23',1,'What is the Digital Motion Processor (DMP™)?']]],
+  ['dmp_20configuration_20captured_20from_20zanel_20s_20teensy_20icm_2020948_20code_10',['Can I see the full DMP configuration captured from @ZaneL &apos;s Teensy-ICM-20948 code?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md34',1,'']]],
+  ['dmp_20data_11',['How do I access the DMP data?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md26',1,'']]],
+  ['dmp_20data_20rate_20set_12',['How is the DMP data rate set?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md32',1,'']]],
+  ['dmp_20features_20are_20currently_20supported_13',['Which DMP features are currently supported?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md27',1,'']]],
+  ['dmp_20generate_20interrupts_14',['Can the DMP generate interrupts?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md31',1,'']]],
+  ['dmp_20loaded_20and_20started_15',['How is the DMP loaded and started?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md25',1,'']]],
+  ['dmp_20registers_20defined_16',['Where are the DMP registers defined?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md30',1,'']]],
+  ['dmp_20support_20enabled_20by_20default_17',['Is DMP support enabled by default?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md24',1,'']]],
+  ['do_20i_20access_20the_20dmp_20data_18',['How do I access the DMP data?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md26',1,'']]],
+  ['documentation_19',['Documentation',['../md_lib_2ICM-20948_2README.html#autotoc_md40',1,'']]],
+  ['driver_20',['driver',['../md_lib_2DRV10970_2README.html',1,'DRV10970 Motor Driver'],['../md_lib_2ZXMB5210_2README.html',1,'ZXMB5210 Magnetorquer Driver']]],
+  ['drv10970_21',['drv10970',['../classDRV10970.html#a17700b51ed2f1b69277142688f36fd9a',1,'DRV10970::DRV10970(int men, int fg, int fr, int brkmod, int pwm, int rd)'],['../classDRV10970.html#a09f8ad75c9291772873c25f250789eb6',1,'DRV10970::DRV10970(void)'],['../classDRV10970.html',1,'DRV10970']]],
+  ['drv10970_20motor_20driver_22',['DRV10970 Motor Driver',['../md_lib_2DRV10970_2README.html',1,'']]],
+  ['drv10970_2ecpp_23',['DRV10970.cpp',['../DRV10970_8cpp.html',1,'']]],
+  ['drv10970_2eh_24',['DRV10970.h',['../DRV10970_8h.html',1,'']]]
 ];

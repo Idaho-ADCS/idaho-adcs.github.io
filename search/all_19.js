@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['v1_202_205_0',['What changes did you make in v1.2.5?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md28',1,'']]],
+  ['v1_202_206_1',['What changes did you make in v1.2.6?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md29',1,'']]],
+  ['v10_202_201_20for_20arduino_20samd51_20boards_2',['FreeRTOS V10.2.1 for Arduino Samd51 Boards',['../md_lib_2FreeRTOS-SAMD51_2README.html',1,'']]],
+  ['vcoroutineschedule_3',['vCoRoutineSchedule',['../group__vCoRoutineSchedule.html',1,'']]],
+  ['verify_4',['Magic #defines for &quot;common&quot; polynomes? verify ?',['../md_lib_2CRC_2README.html#autotoc_md11',1,'']]],
+  ['versions_5',['Whats new in the recent versions?',['../md_lib_2FreeRTOS-SAMD51_2README.html#autotoc_md20',1,'']]],
+  ['vqueuedelete_6',['vQueueDelete',['../group__vQueueDelete.html',1,'']]],
+  ['vsemaphorecreatebinary_7',['vSemaphoreCreateBinary',['../group__vSemaphoreCreateBinary.html',1,'']]],
+  ['vsemaphoredelete_8',['vSemaphoreDelete',['../group__vSemaphoreDelete.html',1,'']]],
+  ['vstreambufferdelete_9',['vStreamBufferDelete',['../group__vStreamBufferDelete.html',1,'']]],
+  ['vtaskdelay_10',['vTaskDelay',['../group__vTaskDelay.html',1,'']]],
+  ['vtaskdelayuntil_11',['vTaskDelayUntil',['../group__vTaskDelayUntil.html',1,'']]],
+  ['vtaskdelete_12',['vTaskDelete',['../group__vTaskDelete.html',1,'']]],
+  ['vtaskendscheduler_13',['vTaskEndScheduler',['../group__vTaskEndScheduler.html',1,'']]],
+  ['vtaskgetinfo_14',['vTaskGetInfo',['../group__vTaskGetInfo.html',1,'']]],
+  ['vtaskgetruntimestats_15',['vTaskGetRunTimeStats',['../group__vTaskGetRunTimeStats.html',1,'']]],
+  ['vtasklist_16',['vTaskList',['../group__vTaskList.html',1,'']]],
+  ['vtaskpriorityset_17',['vTaskPrioritySet',['../group__vTaskPrioritySet.html',1,'']]],
+  ['vtaskresume_18',['vTaskResume',['../group__vTaskResume.html',1,'']]],
+  ['vtaskresumefromisr_19',['vTaskResumeFromISR',['../group__vTaskResumeFromISR.html',1,'']]],
+  ['vtaskstartscheduler_20',['vTaskStartScheduler',['../group__vTaskStartScheduler.html',1,'']]],
+  ['vtasksuspend_21',['vTaskSuspend',['../group__vTaskSuspend.html',1,'']]],
+  ['vtasksuspendall_22',['vTaskSuspendAll',['../group__vTaskSuspendAll.html',1,'']]]
+];

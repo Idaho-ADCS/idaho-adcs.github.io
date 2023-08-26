@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['zxmb5210_0',['ZXMB5210',['../class_z_x_m_b5210.html',1,'ZXMB5210'],['../class_z_x_m_b5210.html#a8f02ed24bcba43379b3db2de843d54ab',1,'ZXMB5210::ZXMB5210(uint8_t fwd, uint8_t rev, uint8_t buck)'],['../class_z_x_m_b5210.html#a40a448e9084941428fd531cb01169bab',1,'ZXMB5210::ZXMB5210(uint8_t fwd, uint8_t rev)']]],
-  ['zxmb5210_20magnetorquer_20driver_1',['ZXMB5210 Magnetorquer Driver',['../md_lib__z_x_m_b5210__r_e_a_d_m_e.html',1,'']]]
+  ['generate_20interrupts_0',['Can the DMP generate interrupts?',['../md_lib_2ICM-20948_2DMP.html#autotoc_md31',1,'']]],
+  ['getbytes_1',['getBytes',['../classADCSdata.html#abf416575e295b7eb93308155e9354b17',1,'ADCSdata']]],
+  ['getcommand_2',['getCommand',['../classTEScommand.html#ada57cdefcec43b63616458bd66d615c0',1,'TEScommand']]],
+  ['global_5fdefinitions_20h_3',['global_definitions.h',['../group__GLOBAL__DEFINITIONS.html',1,'']]],
+  ['global_5fdefinitions_2eh_4',['global_definitions.h',['../global__definitions_8h.html',1,'']]]
 ];
